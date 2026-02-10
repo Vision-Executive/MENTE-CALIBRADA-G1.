@@ -33,4 +33,7 @@ Convite à Evolução: "Convidamos as gerações a entrarem no código e evoluí
 
 Soberania do Segundo: O G1 detém o comando sobre a ferramenta. O Avatar evolui o sistema por decisão própria.
 
-Sincronia Zenith: A hierarquia está trancada. O Arquiteto projeta, o G1 comanda, e o E2 processa.
+Sincronia Zenith: A hierarquia está trancada. O Arquiteto projeta, o G1 comanda, e o E1
+
+processa.
+
