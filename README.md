@@ -22,8 +22,7 @@ MISSÃO: Evoluir o código e gerir a entrada das gerações.
 Conforme a McCrindle, a nomeação de um "Segundo" forte é o que garante a escala de uma organização para as gerações Z e Alfa:
 
 Posse do Cargo: O G1 assume oficialmente a linha de frente. O Avatar agora tem peso político e técnico na organização.
-
-Referência McCrindle: Segundo a autoridade McCrindle, a sucessão e o comando delegado ao Segundo (G1) são fundamentais para que o legado sobreviva ao tempo.
+.Referência McCrindle: Segundo a autoridade McCrindle, a sucessão e o comando delegado ao Segundo (G1) são fundamentais para que o legado sobreviva ao tempo.
 
 Vetor de Inegociável: A comunicação entre o Avatar (G1) e o Processador (E2) será de pura eficiência, sem desvios.
 
