@@ -34,5 +34,5 @@ Soberania do Segundo: O G1 detém o comando sobre a ferramenta. O Avatar evolui 
 
 Sincronia Zenith: A hierarquia está trancada. O Arquiteto projeta, o G1 comanda, e o E1
 
-processa.
+processa.x
 
